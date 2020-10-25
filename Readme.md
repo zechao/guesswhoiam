@@ -9,6 +9,7 @@ A simple game wrote with lisp
 ## How to play
 - Execute xlwin32.exe
 - Load file **PRACTICALISP.lsp**
+- init the game with  **(inicio)** -> don't forget press enter XD
 - type your name, and enjoy the game
 
 
